@@ -1,0 +1,10 @@
+C:\Users\mirce\source\repos\Students (Collections + OOP)\Students (Collections + OOP)\bin\Debug\Students (Collections + OOP).exe.config
+C:\Users\mirce\source\repos\Students (Collections + OOP)\Students (Collections + OOP)\bin\Debug\Students (Collections + OOP).exe
+C:\Users\mirce\source\repos\Students (Collections + OOP)\Students (Collections + OOP)\bin\Debug\Students (Collections + OOP).pdb
+C:\Users\mirce\source\repos\Students (Collections + OOP)\Students (Collections + OOP)\obj\Debug\Students (Collections + OOP).csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\Students (Collections + OOP)\Students (Collections + OOP)\obj\Debug\Students__Collections___OOP_.Form1.resources
+C:\Users\mirce\source\repos\Students (Collections + OOP)\Students (Collections + OOP)\obj\Debug\Students__Collections___OOP_.Properties.Resources.resources
+C:\Users\mirce\source\repos\Students (Collections + OOP)\Students (Collections + OOP)\obj\Debug\Students (Collections + OOP).csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\Students (Collections + OOP)\Students (Collections + OOP)\obj\Debug\Students (Collections + OOP).csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\Students (Collections + OOP)\Students (Collections + OOP)\obj\Debug\Students (Collections + OOP).exe
+C:\Users\mirce\source\repos\Students (Collections + OOP)\Students (Collections + OOP)\obj\Debug\Students (Collections + OOP).pdb
