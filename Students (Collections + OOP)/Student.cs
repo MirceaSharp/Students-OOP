@@ -25,7 +25,7 @@ namespace Students__Collections___OOP_
 
         }
 
-        public string Naam()
+        public string Name()
         {
             return this.FirstName +  " " +  this.LastName;
 
