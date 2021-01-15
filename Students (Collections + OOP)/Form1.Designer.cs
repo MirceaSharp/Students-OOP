@@ -63,7 +63,7 @@ namespace Students__Collections___OOP_
             this.txtFirstName.Name = "txtFirstName";
             this.txtFirstName.Size = new System.Drawing.Size(125, 20);
             this.txtFirstName.TabIndex = 3;
-            this.txtFirstName.TextChanged += new System.EventHandler(this.txtFirstName_TextChanged);
+           
             // 
             // txtLastName
             // 

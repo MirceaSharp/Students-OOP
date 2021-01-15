@@ -25,21 +25,17 @@ namespace Students__Collections___OOP_
             {
                 MessageBox.Show("First name and family name must be filled in!");
 
-
-
             }
             else
             {
 
                 Student newstudent = new Student(txtFirstName.Text, txtLastName.Text);
-                //newstudent.FirstName = "";
+               
                 myStudents.Add(newstudent);
                 lbStudenten.Items.Add(newstudent.Name());
                 txtFirstName.Text = null;
                 txtLastName.Text = null;
             }
-
-
 
 
         }
@@ -48,16 +44,19 @@ namespace Students__Collections___OOP_
         {
             if (lbStudenten.SelectedItem != null)
             {
+                string FullName = lbStudenten.SelectedItem.ToString();
+                string[] nameComponents = FullName.Split(' ');
+                string[] LastName = FullName.Split(' ');
 
-                //txtFirstName.Text = lbStudenten.SelectedItem.ToString().Substring()
-                //txtLastName.Text = lbStudenten.SelectedItem.ToString().Substring(startIndex:0, length: txtLastName.TextLength);
+
+                if(nameComponents.Length >=2)
+                {
+
+                    txtFirstName.Text = nameComponents[0];
+                    txtLastName.Text = nameComponents[1];
+                }    
 
             }
-
-        }
-
-        private void txtFirstName_TextChanged(object sender, EventArgs e)
-        {
 
         }
 
@@ -70,10 +69,7 @@ namespace Students__Collections___OOP_
             {
                 lbStudenten.Items.Remove(lbStudenten.SelectedItem);
             }
-            else
-            {
-
-            }
+           
 
 
         }
